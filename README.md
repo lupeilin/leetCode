@@ -1,2 +1,2 @@
 # leetCode
-lupeilin/leetCode
+LeetCode practice record.
